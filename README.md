@@ -1,8 +1,6 @@
 # Agent365 notification Agent
 
-This is a sample that demonstrates how to implement Agent 365 notification functionality, that allows an agent to respond to comments in a Word document, as well as responding to emails. Here is a video that shows how the agent can colloborate with you when reviewing a Word document:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xKd1awTemiU?si=vy8zFRNaZGRCIc2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This is a sample that demonstrates how to implement Agent 365 notification functionality, that allows an agent to respond to comments in a Word document, as well as responding to emails. Check out [this video](https://www.youtube.com/watch?v=xKd1awTemiU) that shows how you can use Agent 365 notifications to collaborate with an agent when reviewing a Word document.
 
 In addition to responding to the notifications mentioned above, the agent can also respond to Teams messages. In this [blog post](https://nullpointer.se/agent-365-notifications.html) I provide more details on how the sample was implemented.
 
